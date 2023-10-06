@@ -8,4 +8,4 @@ Outline
 	rules of traditional artistic principles of bonsai
 	training on photographs of existing bonsai
 	note: can only remove branches not add them
-5. Produce image of resulting bonsai and digitally age it 5 yearsLM00 
+5. Produce image of resulting bonsai and digitally age it 5 years
